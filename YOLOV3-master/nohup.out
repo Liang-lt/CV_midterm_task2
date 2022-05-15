@@ -1,0 +1,23 @@
+[I 09:13:19.199 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[W 09:13:19.438 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 09:13:19.484 NotebookApp] JupyterLab extension loaded from /usr/local/miniconda3/envs/dl10/lib/python3.6/site-packages/jupyterlab
+[I 09:13:19.484 NotebookApp] JupyterLab application directory is /usr/local/miniconda3/envs/dl10/share/jupyter/lab
+[I 09:13:19.489 NotebookApp] [nb_conda] enabled
+[I 09:13:19.489 NotebookApp] 启动notebooks 在本地路径: /root/YOLOV3
+[I 09:13:19.489 NotebookApp] 本程序运行在: http://80df81c7650f:8888/
+[I 09:13:19.489 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[W 09:34:43.983 NotebookApp] delete /2022-05-12T17:23
+[W 09:34:43.999 NotebookApp] delete /2022-05-12T18:19
+[W 09:34:44.000 NotebookApp] delete /2022-05-12T18:21
+[W 09:34:44.001 NotebookApp] delete /2022-05-12T18:43
+[W 09:34:44.013 NotebookApp] delete /2022-05-12T18:57
+[W 09:34:44.013 NotebookApp] delete /2022-05-12T18:58
+[W 09:34:44.023 NotebookApp] delete /2022-05-12T19:07
+[I 10:57:22.564 NotebookApp] 302 GET / (10.117.4.48) 0.64ms
+[I 10:58:22.055 NotebookApp] 302 GET / (10.117.4.48) 0.62ms
+[I 10:58:53.427 NotebookApp] 302 GET / (10.117.4.48) 0.90ms
+[W 11:00:01.880 NotebookApp] 403 POST /api/shutdown (127.0.0.1): '_xsrf' argument missing from POST
+[W 11:00:01.889 NotebookApp] 403 POST /api/shutdown (127.0.0.1) 8.84ms referer=None
+[I 11:00:19.366 NotebookApp] 302 GET / (10.117.4.48) 0.83ms
+[I 11:00:50.617 NotebookApp] Shutting down on /api/shutdown request.
+[I 11:00:50.618 NotebookApp] 关闭 0 服务
